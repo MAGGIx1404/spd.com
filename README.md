@@ -1,5 +1,9 @@
 Clone of Charles Mines.
 
+Main website link : https://www.charlesmilnes.co.uk/
+
+compare its,
+
 ![](s1.png)<br>
 
 ![](s2.png)<br>
