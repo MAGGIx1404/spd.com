@@ -1,23 +1,23 @@
 Clone of Charles Mines.
 
-![](ss1.png)<br>
+![](s1.png)<br>
 
-![](ss2.png)<br>
+![](s2.png)<br>
 
-![](ss3.png)<br>
+![](s3.png)<br>
 
-![](ss4.png)<br>
+![](s4.png)<br>
 
-![](ss5.png)<br>
+![](s5.png)<br>
 
-![](ss6.png)<br>
+![](s6.png)<br>
 
-![](ss7.png)<br>
+![](s7.png)<br>
 
-![](ss8.png)<br>
+![](s8.png)<br>
 
-![](ss9.png)<br>
+![](s9.png)<br>
 
-![](ss10.png)<br>
+![](s10.png)<br>
 
 Thanks for visit,it.
